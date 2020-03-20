@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochaesoov.usmansiddiqui.com/sitemap.xml
